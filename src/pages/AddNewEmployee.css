@@ -1,0 +1,16 @@
+.form-control {
+  width: 500px;
+}
+
+.labelcss {
+  /* color: red; */
+  color: #839496;
+  /* background: #000; */
+}
+
+.select {
+    /* height: "8vh"; */
+    width: 500px;
+    background: #a9bdbd;
+    line-height: 1.5;
+  }

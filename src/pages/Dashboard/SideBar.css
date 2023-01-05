@@ -1,0 +1,16 @@
+.sidebar .Mui-selected {
+  background-color: #fff !important;
+  border-left: 4px solid #2199d7 !important;
+  color: #0d1a58 !important;
+}
+
+.sidebar .MuiListItemButton-root:not(.Mui-selected) {
+  margin-left: 4px;
+   /* width: 35%; */
+   height:100%;
+}
+
+.sidebar.MuiList-root {
+  padding-top: 0px !important;
+  color:#839496;
+}
